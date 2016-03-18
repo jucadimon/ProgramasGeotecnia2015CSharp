@@ -1,0 +1,2 @@
+Bueno, estos archivos contienen algo basico y funcional para diseñar n cimentaciones en poco tiempo, se debe añadir mas funcionalidad 
+para que puedan automatizarse aun mas y ademas de agregar la parte de graficacion y creacion de informes.
